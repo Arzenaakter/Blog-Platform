@@ -10,8 +10,8 @@ import { CiLocationOn } from "react-icons/ci";
 const ContactPage = () => {
   return (
     <div className="bg-white text-[#000]  py-20 relative lg:px-0 px-10 ">
-      <div className="container mx-auto shadow-2xl bg-green-200 md:py-10 flex md:flex-row flex-col gap-20 md:h-[320px] h-auto">
-        <div className="  bg-green-700 text-white   z-10 md:w-[40%] w-[100%] p-5 md:-ms-16 shadow-xl space-y-3">
+      <div className="container  mx-auto shadow-2xl bg-green-200 md:py-10 flex md:flex-row flex-col gap-20 md:h-[320px] h-auto">
+        <div className="  bg-green-700 text-white   z-10 md:w-[30%] w-[100%] p-5 md:-ms-16 shadow-xl space-y-3">
           <h4 className="text-center py-2 font-semibold">
             Contact Information{" "}
           </h4>
