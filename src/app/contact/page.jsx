@@ -10,8 +10,8 @@ import { CiLocationOn } from "react-icons/ci";
 const ContactPage = () => {
   return (
     <div className="bg-white text-[#000]  py-20 relative lg:px-0 px-10 ">
-      <div className="container  mx-auto shadow-2xl bg-green-200 md:py-10 flex md:flex-row flex-col gap-20 md:h-[320px] h-auto">
-        <div className="  bg-green-700 text-white   z-10 md:w-[30%] w-[100%] p-5 md:-ms-16 shadow-xl space-y-3">
+      <div className="lg:w-[70%] w-[100%] mx-auto shadow-2xl bg-green-200 md:py-10 flex md:flex-row flex-col gap-20 md:h-[320px] h-auto">
+        <div className=" bg-green-700 text-white   z-10 lg:w-[30%] w-[100%] p-5 md:-ms-16 shadow-xl space-y-3">
           <h4 className="text-center py-2 font-semibold">
             Contact Information{" "}
           </h4>
@@ -38,7 +38,7 @@ const ContactPage = () => {
             action="https://formspree.io/f/mzbldnbk"
             method="POST"
             className="text-center md:text-start py-3 md:py-0">
-            <div className="md:space-x-5  flex-col md:flex-row">
+            <div className="md:space-x-5 flex flex-col md:flex-row">
               <input
                 type="text"
                 name="firstName"
@@ -54,7 +54,7 @@ const ContactPage = () => {
                 placeholder="Last Name"
               />
             </div>
-            <div className="md:space-x-5 flex-col md:flex-row md:my-5">
+            <div className="md:space-x-5 flex flex-col md:flex-row md:my-5">
               <input
                 type="text"
                 name="email"
