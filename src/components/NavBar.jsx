@@ -8,16 +8,16 @@ const NavBar = () => {
     },
     {
       path: "/about",
-      title: "About",
+      title: "About Us",
     },
     {
       path: "/contact",
-      title: "About",
+      title: "Contact Us",
     },
   ];
   return (
-    <nav className="h-20 border shadow-lg">
-      <div className="container mx-auto flex justify-between items-center mt-5">
+    <nav className="h-20  bg-green-700 shadow-lg">
+      <div className="container mx-auto flex justify-between items-center text-white pt-5 px-10 lg:px-0">
         <h1 className="text-2xl font-semibold italic drop-shadow-xl ">
           Blog Platform
         </h1>
@@ -27,7 +27,7 @@ const NavBar = () => {
             <li key={path}>
               <NavLink
                 exact={path === "/"}
-                activeClassName="text-blue-700  "
+                activeClassName="text-black font-bold "
                 href={path}>
                 {title}
               </NavLink>

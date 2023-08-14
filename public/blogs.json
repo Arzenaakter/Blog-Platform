@@ -1,159 +1,101 @@
 [
   {
-    "source": {
-      "id": "abcd-1234-efgh",
-
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "'OPPENHEIMER' Inspires Road Trips and Flights as Viewers Clamor for Ideal Experience...",
-    "description": "Director Christopher Nolan touted the IMAX 70mm as the best way to see his historical drama. There’s just one hitch.",
-    "url": "https://www.wsj.com/articles/oppenheimermovie70mmimaxtravelf4931482",
-    "urlToImage": "https://images.wsj.net/im817710/social",
-    "publishedAt": "20230715T15:00:03Z",
-    "content": "‘Oppenheimer’ Inspires Road Trips and FarFlung Flights as Movie Buffs Clamor for the Ideal Viewing ExperienceBy July 15, 2023 10:00 am ETTo view the highly anticipated “Oppenheimer” as director Chri… [+728 chars]"
+    "id": "abcd-1234-efgh",
+    "placeName": "Sunny Beach Resort",
+    "content": "Sunny Beach Resort is a tropical paradise with white sandy beaches and crystal clear waters, perfect for sunbathing and water sports.",
+    "rating": 4.5,
+    "title": "Relaxation at its Best",
+    "photoURl": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/qingbao-meng-330658-unsplash-500x414.jpg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/gaetano-cessati-120488-unsplash-500x414.jpg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/braden-jarvis-383867-unsplash-500x414.jpg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/bird-s-eye-view-cars-daylight-1098820-500x414.jpg"
   },
   {
-    "source": {
-      "id": "wxyz-5678-ijkl",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Bond King, Felon, Billionaire Philanthropist: The Nine Lives of Michael Milken...",
-    "description": "The former financier is putting $500 million into the Milken Center for Advancing the American Dream",
-    "url": "https://www.wsj.com/articles/michaelmilkenbondkingfelonbillionairephilanthropist3aa50cbc",
-    "urlToImage": "https://images.wsj.net/im816744/social",
-    "publishedAt": "20230714T15:00:02Z",
-    "content": "Bond King, Felon, Billionaire Philanthropist: The Nine Lives of Michael MilkenBy July 14, 2023 10:26 am ETMichael Milken wants to live forever.Copyright ©2023 Dow Jones & Company, Inc. All Rights Res… [+627 chars]"
+    "id": "wxyz-5678-ijkl",
+    "placeName": "Mountain Vista Lodge",
+    "content": "Escape to Mountain Vista Lodge, where you can enjoy stunning mountain views, hike through scenic trails, and unwind in cozy cabins.",
+    "rating": 4.8,
+    "title": "A Tranquil Escape",
+    "photoURl": " https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/gaetano-cessati-120488-unsplash-500x414.jpg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-copy-500x414.jpg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-325807-500x414.jpeg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-871053-500x414.jpeg"
   },
   {
-    "source": {
-      "id": "mnop-9012-qrst",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Zuckerberg Channeled 'OG Mark' to FastTrack THREADS...",
-    "description": "Staffers toiled for months to create a Twitterlike service that would fit with existing apps",
-    "url": "https://www.wsj.com/articles/zuckerbergchanneledogmarktofasttracksecreteffortthatbecamethreads86ce532e",
-    "urlToImage": "https://images.wsj.net/im817263/social",
-    "publishedAt": "20230714T15:00:02Z",
-    "content": "Zuckerberg Channeled ‘OG Mark’ to FastTrack Secret Effort That Became ThreadsBy July 14, 2023 10:52 am ETFacebook parent company Meta has launched Threads, a standalone microblogging app that rival… [+1087 chars]"
+    "id": "mnop-9012-qrst",
+    "placeName": "Cultural Heritage Museum",
+    "content": "Discover the rich history and culture of our region at the Cultural Heritage Museum, featuring artifacts and exhibits from centuries past.",
+    "rating": 4.2,
+    "title": "Journey Through Time",
+    "photoURl": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/braden-jarvis-383867-unsplash-500x414.jpg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-697313-500x414.jpeg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/luca-bravo-121932-unsplash-500x414.jpg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/luca-bravo-177552-unsplash-500x414.jpg"
   },
   {
-    "source": {
-      "id": "uvwx-3456-yzab",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Can Seating Get Any Worse? 'New Form of Torture Chamber'...",
-    "description": "Passengers have flooded the FAA with complaints about narrow seats and scant legroom; ‘It’s literally painful to fly today’",
-    "url": "https://www.wsj.com/articles/airlineseatsizecomplaintslegroomfaaf065e76e",
-    "urlToImage": "https://images.wsj.net/im815291/social",
-    "publishedAt": "20230714T14:00:02Z",
-    "content": "Can Airline Seating Get Any Worse? ‘A New Form of Torture Chamber’By July 14, 2023 9:00 am ETLike nearly everyone who boards a commercial airliner these days, Tina Dixon hates the tiny, uncomfortable… [+681 chars]"
+    "id": "uvwx-3456-yzab",
+    "placeName": "Gourmet Delights Bistro",
+    "content": "Indulge your taste buds at Gourmet Delights Bistro, where expert chefs craft exquisite dishes using the finest ingredients.",
+    "rating": 4.7,
+    "title": "A Gastronomic Experience",
+    "photoURl": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-225227-400x400.jpeg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/mark-basarab-122141-unsplash-500x414.jpg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/qingbao-meng-330658-unsplash-500x414.jpg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-701449-500x414.jpeg"
   },
   {
-    "source": {
-      "id": "defg-7890-cdij",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Drones Reach Stratospheric Heights in Race to Fly Higher, Longer...",
-    "description": "New military and commercial craft aim to go far higher than jumbo jets and stay there for months, offering more flexible alternative to satellites",
-    "url": "https://www.wsj.com/articles/dronesreachstratosphericheightsinracetoflyhigherlongera29ceea3",
-    "urlToImage": "https://images.wsj.net/im816424/social",
-    "publishedAt": "20230714T12:00:03Z",
-    "content": "Drones Reach Stratospheric Heights in Race to Fly Higher, LongerBy Updated July 14, 2023 12:48 am ETThis month a drone took off from a missile range in New Mexico and climbed into the stratosphere, j… [+773 chars]"
+    "id": "defg-7890-cdij",
+    "placeName": "Serene Zen Garden",
+    "content": "Find inner peace at the Serene Zen Garden, a tranquil oasis designed to evoke a sense of harmony and mindfulness.",
+    "rating": 4.6,
+    "title": "A Haven of Serenity",
+    "photoURl": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/hugues-de-buyer-mimeure-335733-unsplash-400x400.jpg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-739365-500x414.jpeg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-442559-500x414.jpeg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/hugues-de-buyer-mimeure-335733-unsplash-500x414.jpg"
   },
   {
-    "source": {
-      "id": "klmn-2345-efop",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Top Man of God in Iowa Wants Someone Other Than Trump...",
-    "description": "Bob Vander Plaats has a record of backing winners in state’s Republican caucuses",
-    "url": "https://www.wsj.com/articles/atopmanofgodiniowawantssomeoneotherthantrump1280461b",
-    "urlToImage": "https://images.wsj.net/im816857/social",
-    "publishedAt": "20230714T12:00:03Z",
-    "content": "A Top Man of God in Iowa Wants Someone Other Than TrumpBy July 14, 2023 5:30 am ET\r\nDES MOINES, Iowa—Bob Vander Plaats, a former high school accounting teacher who is arguably this state’s most influ… [+734 chars]"
+    "id": "klmn-2345-efop",
+    "placeName": "Adventure Expeditions",
+    "content": "Fuel your adventurous spirit with thrilling activities offered by Adventure Expeditions, from mountain biking to rock climbing.",
+    "rating": 4.9,
+    "title": "Unleash Your Adventurous Spirit",
+    "photoURl": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-871053-500x414.jpeg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/willian-justen-de-vasconcellos-563521-unsplash-500x414.jpg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/tom-grimbert-679402-unsplash-500x414.jpg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/mo-baghdadi-109634-unsplash-500x414.jpg"
   },
   {
-    "source": {
-      "id": "qrst-6789-uvwx",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Tucker Creating New Media Company...",
-    "description": "Former Fox News host and associate look to raise funds for new venture that could use Twitter as its backbone",
-    "url": "https://www.wsj.com/articles/tuckercarlsoniscreatinganewmediacompany8e21b909",
-    "urlToImage": "https://images.wsj.net/im817018/social",
-    "publishedAt": "20230714T12:00:03Z",
-    "content": "WSJ News Exclusive | Tucker Carlson Is Creating a New Media CompanyBy and Updated July 14, 2023 6:47 am ET\r\nFormer Fox News host Tucker Carlson and former White House adviser Neil Patel are seeking t… [+768 chars]"
+    "id": "uvwx-8901-yzcd",
+    "placeName": "Urban Pulse Cityscape",
+    "content": "Immerse yourself in the dynamic energy of Urban Pulse Cityscape, where modernity meets cultural diversity.",
+    "rating": 4.4,
+    "title": "City That Never Sleeps",
+    "photoURl": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-325807-500x414.jpeg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/mark-basarab-122141-unsplash-500x414.jpg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/qingbao-meng-330658-unsplash-500x414.jpg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-701449-500x414.jpeg"
   },
   {
-    "source": {
-      "id": "yzab-0123-mnop",
-      "name": "The Wall Street Journal"
-    },
-    "author": "David Benoit",
-    "title": "JPMorgan Reports Blockbuster Profit Of More Than $14 Billion",
-    "description": "Live coverage of what's moving stocks and other markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
-    "url": "https://www.wsj.com/livecoverage/stockmarkettodayearnings07142023",
-    "urlToImage": "https://images.wsj.net/im816473/social",
-    "publishedAt": "20230714T11:00:07Z",
-    "content": "JPMorgan Chase opened up secondquarter bank earnings season Friday with a 67% increase in profit. Here are the numbers you need to know from the nations biggest bank. Revenue rose 34% to $41.31 bill… [+925 chars]"
+    "id": "mnop-2345-qrst",
+    "placeName": "Artistic Expression Gallery",
+    "content": "Immerse yourself in artistic diversity at the Artistic Expression Gallery, where various forms of art ignite creativity.",
+    "rating": 4.3,
+    "title": "Colors of Inspiration",
+    "photoURl": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-225227-400x400.jpeg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/mark-basarab-122141-unsplash-500x414.jpg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/qingbao-meng-330658-unsplash-500x414.jpg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-701449-500x414.jpeg"
   },
   {
-    "source": {
-      "id": "efgh-4567-ijkl",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Republican AGs Warn Top Businesses Over 'Discrimination' After Affirmative Action Ruling...",
-    "description": "Citing affirmative action ruling, top state law officials put Fortune 100 on notice for racial quotas, preferences",
-    "url": "https://www.wsj.com/articles/republicanattorneysgeneralwarntopusbusinessesoverdiscrimination1eb78d29",
-    "urlToImage": "https://images.wsj.net/im816520/social",
-    "publishedAt": "20230713T21:00:02Z",
-    "content": "WSJ News Exclusive | Republican Attorneys General Warn Top U.S. Businesses Over ‘Discrimination’By July 13, 2023 1:04 pm ETThe Supreme Court has banned colleges from using race as admission criteria,… [+1180 chars]"
-  },
-  {
-    "source": {
-      "id": "uvwx-8901-yzcd",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Marjorie Taylor Greene Enters Exile from Powerful Freedom Caucus...",
-    "description": "Georgia GOP firebrand, ousted after insulting Lauren Boebert, is a close ally of Speaker Kevin McCarthy",
-    "url": "https://www.wsj.com/articles/marjorietaylorgreenelaurenboebertfeudfreedomcaucus641b7067",
-    "urlToImage": "https://images.wsj.net/im816273/social",
-    "publishedAt": "20230713T16:00:02Z",
-    "content": "Marjorie Taylor Greene Enters Exile from Powerful Freedom Caucus WASHINGTON—The breakup of Rep. Marjorie Taylor Greene and the most powerful conservative caucus in the House was likely sealed when sh… [+729 chars]"
-  },
-  {
-    "source": {
-      "id": "mnop-2345-qrst",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "FDA Approves First OvertheCounter BirthControl Pill...",
-    "description": "Perrigo says Opill would be available over the counter by 2024",
-    "url": "https://www.wsj.com/articles/otcbirthcontrolpill4c180a93",
-    "urlToImage": "https://images.wsj.net/im816081/social",
-    "publishedAt": "20230713T16:00:02Z",
-    "content": "FDA Approves First U.S. OvertheCounter BirthControl PillBy Updated July 13, 2023 8:56 am ETEarlier: Shortly after the Supreme Court overturned Roe v. Wade, an application for an overthecounter b… [+1031 chars]"
-  },
-  {
-    "source": {
-      "id": "ijkl-6789-efgh",
-      "name": "The Wall Street Journal"
-    },
-    "author": "wsj",
-    "title": "Trans Rights Battles Heat Up at DMV...",
-    "description": "Fights focus on new laws requiring state agencies to use a person’s sex at birth on official documents",
-    "url": "https://www.wsj.com/articles/transgenderrightsbattlesheatupatthedmvinsomestates9a50cdee",
-    "urlToImage": "https://images.wsj.net/im815877/social",
-    "publishedAt": "20230713T14:00:02Z",
-    "content": "Transgender Rights Battles Heat Up at the DMV in Some StatesBy July 13, 2023 9:05 am ET\r\nNew laws in Kansas and other states are stoking fights over whether to allow transgender people to change thei… [+718 chars]"
+    "id": "ijkl-6789-efgh",
+    "placeName": "Luxury Heights Skyscrapers",
+    "content": "Experience urban luxury at its finest in the Luxury Heights Skyscrapers, offering breathtaking views and top-notch amenities.",
+    "rating": 4.7,
+    "title": "Elevated Living",
+    "photoURl": " https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/gaetano-cessati-120488-unsplash-500x414.jpg",
+    "img1": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-copy-500x414.jpg",
+    "img2": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-325807-500x414.jpeg",
+    "img3": "https://a6e8z9v6.stackpathcdn.com/akea/homepage3/wp-content/uploads/2018/11/pexels-photo-871053-500x414.jpeg"
   }
 ]

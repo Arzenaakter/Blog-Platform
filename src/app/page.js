@@ -1,9 +1,10 @@
 import BlogSection from "@/components/BlogSection";
+import Slider from "@/components/Slider";
 
 const HomePage = () => {
   return (
     <main className="">
-      <div h-30>hola</div>
+      <Slider></Slider>
       <BlogSection></BlogSection>
     </main>
   );
