@@ -27,7 +27,7 @@ const NavBar = () => {
             <li key={path}>
               <NavLink
                 exact={path === "/"}
-                activeClassName="text-blue-500  "
+                activeClassName="text-blue-700  "
                 href={path}>
                 {title}
               </NavLink>
